@@ -1,8 +1,8 @@
 House Price Prediction (Nepal)
-
+########
 A machine learning project that predicts house prices in Nepal based on key property features such as location, area, number of rooms, and other relevant factors.
 This project demonstrates the complete ML pipeline — from data generation and preprocessing to model training and prediction.
-
+######
  Project Overview
 
 Real estate pricing is influenced by multiple factors and varies significantly across regions.
