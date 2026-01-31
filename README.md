@@ -9,7 +9,7 @@ Real estate pricing is influenced by multiple factors and varies significantly a
 This project aims to build a data-driven solution that can estimate house prices accurately using supervised machine learning techniques.
 
 The model is trained on a Nepal-specific housing dataset and can be easily extended or deployed as a web application.
-
+---------
  Features
 
  Nepal-based housing dataset
@@ -23,7 +23,7 @@ The model is trained on a Nepal-specific housing dataset and can be easily exten
  Easy-to-run training and prediction scripts
 
  Modular and clean project structure
-
+--------
  Project Structure
 house_price_prediction/
 │
@@ -34,7 +34,7 @@ house_price_prediction/
 ├── nepal_house_price_model.pkl # Trained model (ignored in Git)
 ├── README.md                   # Project documentation
 └── .gitignore                  # Ignored files configuration
-
+------
  Tech Stack
 
 Programming Language: Python
@@ -48,13 +48,13 @@ numpy
 scikit-learn
 
 matplotlib (optional for visualization)
-
+----
 Tools:
 
 Git & GitHub
 
 VS Code / PyCharm
-
+-------
  How to Run the Project
  Clone the Repository
 git clone https://github.com/bikram76334/house_price_prediction.git
@@ -71,7 +71,7 @@ python train_model.py
 
 Run the Application
 python app.py
-
+--------
  Model Details
 
 Type: Supervised Machine Learning (Regression)
@@ -93,7 +93,7 @@ Dataset files (.xlsx, .csv)
 Trained model files (.pkl)
 
 are excluded using .gitignore.
-
+------------------
  Future Improvements
 
  Web deployment using Flask or FastAPI
@@ -106,7 +106,7 @@ Model performance comparison
 
  Cloud deployment
 
-
+------------------
 👤 Author
 
 Bikram Sharma
@@ -116,7 +116,7 @@ Interested in Data Science, Machine Learning & AI
 GitHub: https://github.com/bikram76334
 
 LinkedIn: https://www.linkedin.com/in/bikram-chapagain-55b364392/
-
+-------------
 Acknowledgements
 
 Inspired by real-world real estate pricing challenges
