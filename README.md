@@ -65,8 +65,8 @@ cd house_price_prediction
 
 ### Install Dependencies
 </> Bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
+```
 Model Details
 Type: Supervised Machine Learning (Regression)
 Algorithms: Linear Regression / Random Forest
