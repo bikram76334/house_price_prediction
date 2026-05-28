@@ -59,4 +59,4 @@ columns = [
 df = pd.DataFrame(data, columns=columns)
 df.to_csv("nepal_house_data.csv", index=False)
 
-print("✅ Dataset created: nepal_house_data.csv (1000 rows)")
+print(" Dataset created: nepal_house_data.csv (1000 rows)")
