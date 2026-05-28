@@ -38,4 +38,4 @@ preds = model.predict(X_test)
 print("R2 Score:", r2_score(y_test, preds))
 
 joblib.dump(model, "nepal_house_price_model.pkl")
-print("✅ Model saved")
+print(" Model saved")
